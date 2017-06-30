@@ -2,7 +2,8 @@
 title: Fabio Napoli
 email: fabionapoli34@gmail.com
 url: https://fabionapoli34.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: " Hello I'm Fabio Napoli and I'm an ardent freelance developer from Salerno, Italy"
+
 keywords: "php,java,bootstrap,html5,css,javascript"
 skills: "Freelance Developer"
 meta_author: Napoli Fabio
@@ -31,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Fabio Napoli
   location: Location
   social: Around the Web
   credits: Credits
@@ -54,7 +55,7 @@ address:
   - line: Fisciano, SA 84084
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site was created with Bootstrap theme and Jekyll now'
 
 # Build settings
 markdown: kramdown
