@@ -38,14 +38,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: 
-    url: 
+
   - title: facebook
     url: https://www.facebook.com/fabionapoli34
   - title: stack-overflow
     url: https://stackoverflow.com/users/7937596/fabio
-  - title: 
-    url:
   - title: github
     url: https://github.com/fabionapoli34
   - title: linkedin
